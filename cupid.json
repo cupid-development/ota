@@ -8,6 +8,15 @@
       "size": 1701515824,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-cupid-8cb020c7/lineage-21.0-20240425-UNOFFICIAL-cupid.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1714077545,
+      "filename": "lineage-21.0-20240425-UNOFFICIAL-cupid.zip",
+      "id": "3f889d7fee1cfd1e4f929c99b5bcb7f8250d95c42517d11bbe8c581e17499d3a",
+      "romtype": "UNOFFICIAL",
+      "size": 1701536664,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-cupid-3f889d7f/lineage-21.0-20240425-UNOFFICIAL-cupid.zip",
+      "version": "21.0"
     }
   ]
 }
