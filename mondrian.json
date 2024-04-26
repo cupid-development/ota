@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714092697,
+      "filename": "lineage-21.0-20240426-UNOFFICIAL-mondrian.zip",
+      "id": "d6a811bd84006b985bcf2bf02c38fb79ccf75774a4245c8644a018083b05cd43",
+      "romtype": "UNOFFICIAL",
+      "size": 1777892725,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-mondrian-d6a811bd/lineage-21.0-20240426-UNOFFICIAL-mondrian.zip",
+      "version": "21.0"
+    }
+  ]
+}
