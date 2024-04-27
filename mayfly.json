@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714238378,
+      "filename": "lineage-21.0-20240427-UNOFFICIAL-mayfly.zip",
+      "id": "abcfa301be21add211a37a241966eda311f36091827f46a5517034350ec17c71",
+      "romtype": "UNOFFICIAL",
+      "size": 1837915350,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-mayfly-abcfa301/lineage-21.0-20240427-UNOFFICIAL-mayfly.zip",
+      "version": "21.0"
+    }
+  ]
+}
