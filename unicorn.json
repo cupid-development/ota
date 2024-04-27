@@ -8,6 +8,15 @@
       "size": 1818106080,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-unicorn-0a83bf0c/lineage-21.0-20240427-UNOFFICIAL-unicorn.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1714222350,
+      "filename": "lineage-21.0-20240427-UNOFFICIAL-unicorn.zip",
+      "id": "cea91fbe8495062a3f90230897603694db9f30361c8506fbe01402efe4eba1df",
+      "romtype": "UNOFFICIAL",
+      "size": 1818103880,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-unicorn-cea91fbe/lineage-21.0-20240427-UNOFFICIAL-unicorn.zip",
+      "version": "21.0"
     }
   ]
 }
