@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714186963,
+      "filename": "lineage-21.0-20240427-UNOFFICIAL-unicorn.zip",
+      "id": "0a83bf0cecce6ac7d7d4ffe4b15c7c392778391e186d8f4a93fd3105f096ed9a",
+      "romtype": "UNOFFICIAL",
+      "size": 1818106080,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-unicorn-0a83bf0c/lineage-21.0-20240427-UNOFFICIAL-unicorn.zip",
+      "version": "21.0"
+    }
+  ]
+}
