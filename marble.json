@@ -8,6 +8,15 @@
       "size": 1722446114,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-marble-3bb61a9e/lineage-21.0-20240426-UNOFFICIAL-marble.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1714262899,
+      "filename": "lineage-21.0-20240428-UNOFFICIAL-marble.zip",
+      "id": "7ef3c02d1ca1055a7f8f6ce8486a66830aa331bb9261fd314b9576bc46bb96a9",
+      "romtype": "UNOFFICIAL",
+      "size": 1741287023,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-marble-7ef3c02d/lineage-21.0-20240428-UNOFFICIAL-marble.zip",
+      "version": "21.0"
     }
   ]
 }
