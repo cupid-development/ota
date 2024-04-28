@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714270135,
+      "filename": "lineage-21.0-20240428-UNOFFICIAL-zeus.zip",
+      "id": "7b571994b65fc8cc917ff33b80572a35b68116af103626b45cc02e32ba2f21dc",
+      "romtype": "UNOFFICIAL",
+      "size": 1723798277,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-7b571994/lineage-21.0-20240428-UNOFFICIAL-zeus.zip",
+      "version": "21.0"
+    }
+  ]
+}
