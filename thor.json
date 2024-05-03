@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714759396,
+      "filename": "lineage-21.0-20240503-UNOFFICIAL-thor.zip",
+      "id": "8fd2bc80d8f380f9fd5277cf2e1155ef065b46724e26544abd303d8f6e9f8867",
+      "romtype": "UNOFFICIAL",
+      "size": 1881662478,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-8fd2bc80/lineage-21.0-20240503-UNOFFICIAL-thor.zip",
+      "version": "21.0"
+    }
+  ]
+}
