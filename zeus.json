@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1714270135,
-      "filename": "lineage-21.0-20240428-UNOFFICIAL-zeus.zip",
-      "id": "7b571994b65fc8cc917ff33b80572a35b68116af103626b45cc02e32ba2f21dc",
-      "romtype": "UNOFFICIAL",
-      "size": 1723798277,
-      "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-7b571994/lineage-21.0-20240428-UNOFFICIAL-zeus.zip",
-      "version": "21.0"
-    },
-    {
       "datetime": 1714874954,
       "filename": "lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
       "id": "122f9f9addbeb17179a016a2166a2f52d9e6a1f9215e29942a3f65b5a60bdb80",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1723827302,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-faa41be5/lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
+      "version": "21.0"
+    },
+    {
+      "datetime": 1714882611,
+      "filename": "lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
+      "id": "b835271c6a11d120e27e0d6635223e30494dcc1f8e083340f3fc360ee250f916",
+      "romtype": "UNOFFICIAL",
+      "size": 1723826458,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-b835271c/lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
       "version": "21.0"
     }
   ]
