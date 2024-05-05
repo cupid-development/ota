@@ -17,6 +17,15 @@
       "size": 1723826066,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-122f9f9a/lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1714878792,
+      "filename": "lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
+      "id": "faa41be59e7905ad316ff2262da151d0e754716bfcb88825acd1f5855ac97437",
+      "romtype": "UNOFFICIAL",
+      "size": 1723827302,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-zeus-faa41be5/lineage-21.0-20240505-UNOFFICIAL-zeus.zip",
+      "version": "21.0"
     }
   ]
 }
