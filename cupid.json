@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1714077545,
-      "filename": "lineage-21.0-20240425-UNOFFICIAL-cupid.zip",
-      "id": "3f889d7fee1cfd1e4f929c99b5bcb7f8250d95c42517d11bbe8c581e17499d3a",
-      "romtype": "UNOFFICIAL",
-      "size": 1701536664,
-      "url": "https://github.com/cupid-development/ota/releases/download/21.0-cupid-3f889d7f/lineage-21.0-20240425-UNOFFICIAL-cupid.zip",
-      "version": "21.0"
-    },
-    {
       "datetime": 1714356530,
       "filename": "lineage-21.0-20240429-UNOFFICIAL-cupid.zip",
       "id": "3b63d4d12ab8b07c0e1054a2d33df5c44a462b1d6e1f70808db0740d7ee67d33",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1703714895,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-cupid-feea5a9d/lineage-21.0-20240506-UNOFFICIAL-cupid.zip",
+      "version": "21.0"
+    },
+    {
+      "datetime": 1714965716,
+      "filename": "lineage-21.0-20240506-UNOFFICIAL-cupid.zip",
+      "id": "4774b0e8d40e85df06e547d0f25e45f94f3d6090dc6b7f47d9595aff9f5cb212",
+      "romtype": "UNOFFICIAL",
+      "size": 1703770481,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-cupid-4774b0e8/lineage-21.0-20240506-UNOFFICIAL-cupid.zip",
       "version": "21.0"
     }
   ]
