@@ -17,6 +17,15 @@
       "size": 1881522253,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-920819c1/lineage-21.0-20240510-UNOFFICIAL-thor.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1715404320,
+      "filename": "lineage-21.0-20240511-UNOFFICIAL-thor.zip",
+      "id": "74d33f1da2809c8fd7281eb216c8d648d28c8488115773fba6993886ea78ae41",
+      "romtype": "UNOFFICIAL",
+      "size": 1881972696,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-74d33f1d/lineage-21.0-20240511-UNOFFICIAL-thor.zip",
+      "version": "21.0"
     }
   ]
 }
