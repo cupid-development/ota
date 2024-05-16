@@ -17,6 +17,15 @@
       "size": 1780696710,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-mondrian-4be1eb9a/lineage-21.0-20240502-UNOFFICIAL-mondrian.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1715825365,
+      "filename": "lineage-21.0-20240516-UNOFFICIAL-mondrian.zip",
+      "id": "24f360dbccda031e63484c318c1a0fe21d3d4f204b7780e141153da1d86e74da",
+      "romtype": "UNOFFICIAL",
+      "size": 1780991462,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-mondrian-24f360db/lineage-21.0-20240516-UNOFFICIAL-mondrian.zip",
+      "version": "21.0"
     }
   ]
 }
