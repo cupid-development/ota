@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1715306971,
-      "filename": "lineage-21.0-20240510-UNOFFICIAL-thor.zip",
-      "id": "920819c14ecdbee8e271c453f9565f7ebc1ab9ed6730e1c245b87f77b915b953",
-      "romtype": "UNOFFICIAL",
-      "size": 1881522253,
-      "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-920819c1/lineage-21.0-20240510-UNOFFICIAL-thor.zip",
-      "version": "21.0"
-    },
-    {
       "datetime": 1715404320,
       "filename": "lineage-21.0-20240511-UNOFFICIAL-thor.zip",
       "id": "74d33f1da2809c8fd7281eb216c8d648d28c8488115773fba6993886ea78ae41",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1881952433,
       "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-0a0034e8/lineage-21.0-20240512-UNOFFICIAL-thor.zip",
+      "version": "21.0"
+    },
+    {
+      "datetime": 1715911797,
+      "filename": "lineage-21.0-20240517-UNOFFICIAL-thor.zip",
+      "id": "2fe0089070e6ad70abbf848db26a4e28183b603868d566a1b926d0c78ce0b0cf",
+      "romtype": "UNOFFICIAL",
+      "size": 1882019177,
+      "url": "https://github.com/cupid-development/ota/releases/download/21.0-thor-2fe00890/lineage-21.0-20240517-UNOFFICIAL-thor.zip",
       "version": "21.0"
     }
   ]
