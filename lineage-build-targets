@@ -1,0 +1,11 @@
+# LineageOS build target list
+# <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
+
+# Weekly 21.0
+cupid userdebug lineage-21 W
+marble userdebug lineage-21 W
+mayfly userdebug lineage-21 W
+mondrian userdebug lineage-21 W
+thor userdebug lineage-21 W
+unicorn userdebug lineage-21 W
+zeus userdebug lineage-21 W
