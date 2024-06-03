@@ -2,6 +2,7 @@
 import hashlib
 import json
 import os
+import shutil
 import sys
 import zipfile
 
@@ -32,7 +33,7 @@ for device in DEVICES:
     to_delete = sorted(builds)[::-1][BUILDS_TO_KEEP:]
 
     for directory in to_delete:
-        os.rmdir(os.path.join(FILE_BASE, PREFIX, device, directory))
+        shutil.rmtree(os.path.join(FILE_BASE, PREFIX, device, directory), ignore_errors=True)
 
     for build in to_keep:
         build_dir = os.path.join(FILE_BASE, PREFIX, device, build)
