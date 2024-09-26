@@ -1,6 +1,5 @@
 [
   {  "model": "cupid", "oem": "Xiaomi", "name": "12" },
-  {  "model": "dagda", "oem": "Xiaomi", "name": "12 Pro" },
   {  "model": "diting", "oem": "Xiaomi", "name": "12T Pro / Redmi K50 Ultra" },
   {  "model": "dizi", "oem": "Xiaomi", "name": "Poco Pad / Redmi Pad Pro" },
   {  "model": "garnet", "oem": "Xiaomi", "name": "Redmi Note 13 Pro" },
@@ -10,9 +9,10 @@
   {  "model": "marble", "oem": "Xiaomi", "name": "POCO F5 / Redmi Note 12 Turbo" },
   {  "model": "mayfly", "oem": "Xiaomi", "name": "12S" },
   {  "model": "mondrian", "oem": "Xiaomi", "name": "POCO F5 Pro / Redmi K60" },
-  {  "model": "taranis", "oem": "Xiaomi", "name": "12S Ultra" },
+  {  "model": "thor", "oem": "Xiaomi", "name": "12S Ultra" },
   {  "model": "unicorn", "oem": "Xiaomi", "name": "12S Pro" },
   {  "model": "yudi", "oem": "Xiaomi", "name": "Pad 6 Max 14" },
+  {  "model": "zeus", "oem": "Xiaomi", "name": "12 Pro" },
   {  "model": "ziyi", "oem": "Xiaomi", "name": "13 Lite / Civi 2" },
   {  "model": "zizhan", "oem": "Xiaomi", "name": "MIX Fold 2" }
 ]
