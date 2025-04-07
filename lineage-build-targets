@@ -1,14 +1,14 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Weekly 22.1
-cupid userdebug lineage-22.1 W
-diting userdebug lineage-22.1 W
-marble userdebug lineage-22.1 W
-mayfly userdebug lineage-22.1 W
-mondrian userdebug lineage-22.1 W
-thor userdebug lineage-22.1 W
-unicorn userdebug lineage-22.1 W
-zeus userdebug lineage-22.1 W
-ziyi userdebug lineage-22.1 W
-zizhan userdebug lineage-22.1 W
+# Weekly 22.2
+cupid userdebug lineage-22.2 W
+#diting userdebug lineage-22.2 W
+#marble userdebug lineage-22.2 W
+mayfly userdebug lineage-22.2 W
+mondrian userdebug lineage-22.2 W
+#thor userdebug lineage-22.2 W
+unicorn userdebug lineage-22.2 W
+zeus userdebug lineage-22.2 W
+#ziyi userdebug lineage-22.2 W
+#zizhan userdebug lineage-22.2 W
